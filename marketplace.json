@@ -1,0 +1,30 @@
+{
+  "name": "cc-marketplace",
+  "owner": {
+    "name": "zlrlyy"
+  },
+  "metadata": {
+    "description": "AI 驱动的全流程测试套件：代码审查 → 用例设计 → 测试执行 → 缺陷管理 → 测试报告"
+  },
+  "plugins": [
+    {
+      "name": "ai-testing",
+      "source": "./",
+      "description": "AI 驱动的全流程测试套件：代码审查 → 用例设计 → 测试执行 → 缺陷管理 → 测试报告",
+      "author": {
+        "name": "zlrlyy"
+      },
+      "license": "MIT",
+      "keywords": [
+        "testing",
+        "code-review",
+        "test-cases",
+        "playwright",
+        "jira",
+        "bug-report"
+      ],
+      "category": "testing",
+      "tags": ["testing", "code-review", "playwright", "jira", "bug-report"]
+    }
+  ]
+}
